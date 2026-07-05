@@ -29,27 +29,27 @@ The analytical pipeline generates five distinct, multi-plot dashboards, each foc
 ### 1. Demographics & Diversity Insights
 * **Focus:** How age, relationship status, and gender distribution correspond to corporate stability.
 * **Key Finding:** Attrition heavily spikes within the younger age bracket (**28–32 years old**). Furthermore, **Single** employees exhibit an elevated attrition rate of **25.5%**—significantly higher than married or divorced peers.
-* *Output File:* `dashboard/1.png`
+* ![Dashboard 1](dashboard/1.png)
 
 ### 2. Compensation & Financial Drivers
 * **Focus:** The relationship between monthly income curves, stock equity incentives, and annual salary hikes.
 * **Key Finding:** Base pay floor constraints ($2,000–$5,000 monthly) see high turnover regardless of age. Crucially, providing equity acts as an anchor: employees with **0 stock options** face a **24.4% attrition rate**, which immediately drops below 10% when level 1 equity is introduced.
-* *Output File:* `dashboard2_compensation.png`
+* ![Dashboard 1](dashboard/2.png)
 
 ### 3. Work-Life Balance & Burnout Factors
 * **Focus:** Physical stressors including business travel frequency, daily commute distances, and subjective work-life scores.
 * **Key Finding:** Burnout is a primary attrition catalyst. Employees required to **Travel Frequently** show a **24.9% attrition rate**. Long commutes also exhibit a direct positive correlation with voluntary employee departures.
-* *Output File:* `dashboard3_burnout.png`
+* ![Dashboard 1](dashboard/3.png)
 
 ### 4. Workplace Satisfaction & Culture Metrics
 * **Focus:** Quantifying psychological indicators like physical environment comfort, career job satisfaction, and relationship dynamics.
 * **Key Finding:** The impact of job enjoyment is massive. Employees rating `JobSatisfaction` as Level 1 (Low) exit at a **22.8% rate**, whereas Level 4 (Very High) employees exit at only **11.3%**.
-* *Output File:* `dashboard4_satisfaction.png`
+* ![Dashboard 1](dashboard/4.png)
 
 ### 5. Career Growth & Tenure Patterns
 * **Focus:** Tracking time-based milestones like promotion cycles, general tenure, and reporting structure alignment.
 * **Key Finding:** The **"Two-Year Hazard Zone"** is highly apparent; the highest density of employee exits occurs between years 1 and 2 at the company. There is also a distinct attrition spike during the first year of transitioning to a **new manager**.
-* *Output File:* `dashboard5_career.png`
+* ![Dashboard 1](dashboard/5.png)
 
 ---
 
